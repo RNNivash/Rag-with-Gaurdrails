@@ -1,0 +1,26 @@
+# Python / Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+gaurdrails/
+
+# Environment & Secrets
+.env
+.env.local
+.streamlit/secrets.toml
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Data / Upload temporary files
+*.pdf
+scratch/
